@@ -1,4 +1,5 @@
 import './style.css'
+import './style.scss';
 import { startTypingGame } from './typingGame.js';
 
 document.querySelector('#app').innerHTML = `
